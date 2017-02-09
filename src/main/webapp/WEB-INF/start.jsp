@@ -8,14 +8,14 @@
 <h2>testing for yummy</h2>
 </body>
 <script>
-    function login() {
-        $.ajax({
-            type:"post",
-            url:"../login",
-            success:function (data) {
-
-            }
-        });
-    }
+//    function login() {
+//        $.ajax({
+//            type:"post",
+//            url:"../start/login",
+//            success:function (data) {
+//
+//            }
+//        });
+//    }
 </script>
 </html>
